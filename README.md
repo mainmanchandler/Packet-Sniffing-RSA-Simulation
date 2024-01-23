@@ -1,5 +1,5 @@
 ## Packet-Sniffing-RSA-Simulation
- Small python socket to simulate the effects of using RSA when transferring unprotected and RSA encrypted text data over a local network
+Small python socket to simulate the effects of using RSA when transferring unprotected and RSA encrypted text data over a local network. Requires something like Wireshark to watch the packets over the local network.
 
 # How to use:
 1. Download wireshark to look at local network packets
